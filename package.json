@@ -1,0 +1,16 @@
+{
+  "name": "mdb-socket-chat-example",
+  "version": "1.0.0",
+  "description": "my first mongodb socket.io app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naman mishra",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongodb": "4.5",
+    "socket.io": "^4.8.1"
+  }
+}
